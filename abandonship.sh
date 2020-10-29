@@ -14,7 +14,7 @@
 # Multi Factor config info
 
 # minnowii (user provisioning file)
-# firstname,lastname,mobile,groups,professor|gilligan,skipper-bool (skipper-bool will create a skipper account for this user separate from ldap user)
+# firstname,lastname,mobile,groups,role(professor|gilligan),skipper-bool (skipper-bool will create a skipper account for this user separate from ldap user)
 
 ### STAGE ONE INSTALL ######
 
